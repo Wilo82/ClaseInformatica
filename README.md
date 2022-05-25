@@ -1,2 +1,1 @@
-# ClaseInformatica
-# ClaseInformatica
+# Clase5
